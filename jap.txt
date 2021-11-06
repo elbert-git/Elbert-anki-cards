@@ -1,3 +1,6 @@
+PLEASE NOT THAT KATA here is unreliable
+
+
 basics
 ------------------
 na ni nu ne no
@@ -90,95 +93,122 @@ ga gi gu ge go
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 basic kata
 --------------------
 na ni nu ne no
-ナ　　ニ　　ヌ　ネ　ノ
+ナ　ニ　ヌ　ネ　ノ
 
 ta chi tsu te to
-タ　　チ　　ツ　　テ　　ト
+タ　チ　 ツ　 テ　ト
 
 sa shi su se so
-サ　　シ　　ス　　セ　ソ
+サ シ　 ス　セ　ソ
 
 ka ki ku ke ko
-カ　キ　　ク　　ケ　コ
+カ　キ　ク　ケ　コ
 
 a 　i 　u 　e 　o
-ア　イ　　ウ　　エ　　オ
+ア　イ　ウ　 エ　オ
 
 wa wo 
-ワ　ト
+ワ　ヲ
 
 ra ri ru re ro
-ラリルレロ
+ラ リ  ル  レ ロ
 
 ya yu yo
-ヤ　ユ　　ヨ
+ヤ　ユ　ヨ
 
 ma mi mu me mo
-マ　ミ　　ム　　メ　　モ
+マ　ミ　ム　メ　モ
 
 ha hi hu he ho
-ハ　ヒ　　フ　　ヘ　ホ
+ハ　ヒ　フ　ヘ　ホ
+
+n
+ン
+
 
 
 combo
 ------------
 nya nyu nyo
-ニャ　　ニュ　ニョ
+ニャ　ニュ　ニョ
 
 cha chu cho
-チャ　　チュ　チョ
+チャ　チュ　チョ
 
 sha shu sho
-シャ　　シュ　ショ
+シャ　シュ　ショ
 
 kya kyu kyo
-キャ　　キュ　キョ
+キャ　キュ　キョ
 
 gya gyu gyo
-ギャ　　ギュ　グオ
+ギャ　ギュ　グョ
 
-rya ryu ryo
-リャ　　リュ　　リョ
+rya ryu   ryo
+リャ　リュ　　リョ
 
-mya myu myo
-ミャ　　ミュ　　ミョ
 
-hya hyu hyo
-ヒャ　　ヒウ　ヒオ
+mya myu  myo
+ミャ　ミュ　ミョ
 
-pya pyu pyo
-ピャ　　ピュ　ピョ
-bya byu byo
-ビャ　　ビュ　ビョ
+hya hyu  hyo
+ヒャ　ヒウ　ヒオ
+
+pya pyu  pyo
+ピャ　ピュ　ピョ
+
+bya byu  byo
+ビャ　ビュ　ビョ
+
 dyza dzyu dzyo
-ｄｙザ
+デヤ  デユ  デヨ
+
+jya jyu jyo
+ジヤ ジユ ジョ
 
 
 
 combos
 -----------------
 pa pi pu pe po
+パ ピ  プ ペ ポ
 
 
 ba bi bu be bo
-
+バ ビ  ブ ベ ボ
 
 da dzi dzu de do
-
-
+ダ  ヂ  ヅ  デ  ド
+ 
 za ji zu ze zo
-
+ザ ジ  ズ ゼ ゾ
 
 ga gi gu ge go
+ガ ギ  グ ゲ ゴ
+
+fa  fi  fo  fe
+ファ フィ フォ フェ
 
 
-
-
-
-
+ヴ
+v
 
 
 
